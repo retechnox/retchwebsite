@@ -58,7 +58,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                 <a href="intern/delscreen.php" class="btn btn-custom btn-delete">deelete screenshots</a> 
 
                 <hr><br>                 
-                <a href="admin_notes.php" class="btn btn-custom btn-view">Notes</a>
+                <!-- <a href="admin_notes.php" class="btn btn-custom btn-view">Notes</a> -->
                 <hr><br>
                 <h3>Tuitions</h3>                 
                 <a href="tut/admin_tuitions.php" class="btn btn-custom btn-add">Add Tuitions and Approve</a>                 
