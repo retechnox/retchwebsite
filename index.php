@@ -3565,7 +3565,23 @@
                         <li><a href="https://wa.me/+916238795437">Contact-us: +916238795437</a></li>
 
                         <li><a href="mailto:Retechnox@gmail.com">Email-us: Retechnox@gmail.com</a></li>
+        <li style="color:white; font-size:14px; line-height:1.6;">
+            1st Floor, Adichiyil Building,<br>
+            St James Rd, near Thykoodam Underpass,<br>
+            Thykoodam, Vyttila, Kochi,<br>
+            Ernakulam, Kerala 682019
+        </li>
 
+        <li style="margin-top:10px;">
+            <iframe 
+                src="https://www.google.com/maps?q=Adichiyil+Building+St+James+Rd+Thykoodam+Vyttila+Kochi+Kerala+682019&output=embed"
+                width="100%" 
+                height="150" 
+                style="border:0; border-radius:8px;" 
+                allowfullscreen="" 
+                loading="lazy">
+            </iframe>
+        </li>
 
 
                     </ul>
