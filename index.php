@@ -3477,6 +3477,9 @@
                     </div>
 
                     <style>
+                        .footer-col iframe {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
 
                         .navbar1 img {
 
